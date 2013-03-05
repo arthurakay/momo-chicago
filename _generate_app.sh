@@ -1,0 +1,1 @@
+sencha -sdk=../touch-2.1.1-gpl generate app MoMo .

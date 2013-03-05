@@ -1,0 +1,5 @@
+app.js={"appName":"MoMo","frameworkPath":"touch","appModels":"","appControllers":"","appStores":"","appViews":"Main"}
+app.json={"appName":"MoMo","senchadir":".sencha","frameworkPath":"touch","frameworkName":"touch","appModels":"","name":"MoMo","library":"core","appControllers":"","appStores":"","appViews":"","uniqueId":"a1010267-877d-49d7-8b78-f94fe5a5b547"}
+packager.json={"appName":"MoMo","senchadir":".sencha","frameworkPath":"touch","frameworkName":"touch","appModels":"","name":"MoMo","library":"core","appControllers":"","appStores":"","appViews":"","uniqueId":"a1010267-877d-49d7-8b78-f94fe5a5b547"}
+resources/sass/app.scss={"appName":"MoMo","senchadir":".sencha","frameworkPath":"touch","frameworkName":"touch","appModels":"","name":"MoMo","library":"core","appControllers":"","appStores":"","appViews":"","uniqueId":"a1010267-877d-49d7-8b78-f94fe5a5b547"}
+resources/sass/config.rb={"appName":"MoMo","senchadir":".sencha","frameworkPath":"touch","frameworkName":"touch","appModels":"","name":"MoMo","library":"core","appControllers":"","appStores":"","appViews":"","uniqueId":"a1010267-877d-49d7-8b78-f94fe5a5b547"}
